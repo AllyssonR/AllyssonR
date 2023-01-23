@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allysson-ribeiro-a4787418b/)
 
-[![Allysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllyssonR&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Allysson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyssonr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso
 
